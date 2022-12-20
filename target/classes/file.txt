@@ -1,5 +1,0 @@
-First Name,Last Name,Designation,Contact,Salary,City
-Sh,Mish,Auditor,76543,4223535,Kanpur
-Na,Sin,Accountant,2345,546456,Delhi
-Ma,Nig,Manager,65432,6456,Nagpur
-Ka,Dwi,Engineer,123457,56346,Lucknow
